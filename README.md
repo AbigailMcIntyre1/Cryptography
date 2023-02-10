@@ -1,5 +1,6 @@
 # Cryptography
 Projects from my Cryptography class.
+<br>
 
 <h2>Project One - Caesar Cipher</h2>
 Encryption: 
@@ -8,7 +9,7 @@ The user is prompted for a key with a value of 1-25. They are then prompted for 
 Decryption: 
 The user is prompted for a key with a value of 1-25. They are then prompted for the encrypted text to be decrypted. The decrypted text is displayed lowercase in groups of 5 characters with two spaces in between.
 
-<br><br>
+<br>
 
 <h2>Project Two - Vigenère Cipher</h2>
 Encryption: 
