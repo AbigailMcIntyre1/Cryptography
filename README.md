@@ -1,6 +1,6 @@
 # Cryptography
 Projects from my Cryptography class.
-<br>
+<br><br>
 
 <h2>Project One - Caesar Cipher</h2>
 Encryption: 
